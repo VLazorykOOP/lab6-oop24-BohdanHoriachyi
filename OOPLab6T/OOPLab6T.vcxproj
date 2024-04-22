@@ -142,6 +142,7 @@
     <ClCompile Include="Example1.cpp" />
     <ClCompile Include="Example2.cpp" />
     <ClCompile Include="Lab6Example.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="zavdania1.cpp" />
     <ClCompile Include="Example3.cpp" />
   </ItemGroup>
