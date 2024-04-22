@@ -8,7 +8,7 @@ namespace SpaceExample1 {
     ///
     class Base
     {
-    protected:
+    protected:  
         int dat;
         double a[5] = { 10,1,7,1,9 };
     public:
